@@ -14,7 +14,7 @@ STM32F103C8T6, DHT11, 0.96 inch OLED Display (SSD1306), Speaker
 ##环境信息（温湿度）
 ##设置页面
 
-#TO DO
+# TO DO
 ##PCB设计
 ##外壳设计
 ##代码易读性优化
